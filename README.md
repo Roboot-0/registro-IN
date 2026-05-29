@@ -1,6 +1,8 @@
-# KIT DE ARRANQUE — App de Registro de Habitantes GMVV
+# Levantamiento de Urbanismos — Inmobiliaria Nacional S.A.
 
-> **Para el agente de desarrollo (Claude Code o Cowork):** Este paquete contiene todo lo necesario para construir la aplicación móvil de captura de datos del proyecto de Registro de Habitantes de la Gran Misión Vivienda Venezuela. Lee este README completo antes de escribir cualquier línea de código.
+> **Para el agente de desarrollo (Claude Code o Cowork):** Este paquete contiene todo lo necesario para construir el formulario web de levantamiento de urbanismos de Inmobiliaria Nacional S.A. Lee este README completo antes de escribir cualquier línea de código.
+
+> Producción: https://registro-gmvv-roboot-0s-projects.vercel.app
 
 ---
 
